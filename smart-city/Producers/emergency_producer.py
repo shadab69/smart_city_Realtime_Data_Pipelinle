@@ -10,7 +10,7 @@ load_dotenv()
 fake = Faker('en_IN')
 
 
-#hello babu or kia haal h 
+# test...
 
 
 schema_str = """
