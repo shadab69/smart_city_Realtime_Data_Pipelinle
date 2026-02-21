@@ -9,6 +9,10 @@ from confluent_kafka import SerializingProducer
 load_dotenv()
 fake = Faker('en_IN')
 
+
+#hello babu or kia haal h 
+
+
 schema_str = """
 {
   "type": "record",
